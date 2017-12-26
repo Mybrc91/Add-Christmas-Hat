@@ -1,6 +1,10 @@
 # Add-Christmas-Hat
 
 ## Install on Windows
+### install Visual Studio
+### install cmake 
+1. download cmake
+2. set PATH on `cmake-root`\bin
 ### install python2.7 
 ### install numpy
 1. `pip install numpy`
